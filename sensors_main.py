@@ -4,6 +4,9 @@ import sys
 
 # This is the main finction for controlling the flow of the
 # implementation.
+
+# JONKUN MUUN TEKEMÄ MUUTOS!!!
+
 def main():
     limits = parse_limits()
     sensor_data = []
