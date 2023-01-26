@@ -1,5 +1,5 @@
-#Tämä kommenttirivi on kokeilumuutos tiedostoon
-
+#Tämä kommenttirivi on ensimmäinen muutos tiedostoon
+#Toinen muutos
 import sys
 
 # This is the main finction for controlling the flow of the
