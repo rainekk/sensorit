@@ -6,7 +6,8 @@ import sys
 def main():
     limits = parse_limits()
     sensor_data = []
-#jaahas
+# jaahas
+# ollakko vai eikö olla
     if len(limits) > 0 and check_limits(limits):
         sensor_data = read_sensors()
         # This is a mockup code that prints the sensor readings
