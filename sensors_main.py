@@ -1,5 +1,5 @@
 import sys
-
+# Ensimmäinen muutos.
 # This is the main finction for controlling the flow of the
 # implementation.
 def main():
@@ -16,7 +16,7 @@ def main():
             print (row)
     else:
         print("Error: Incorrect command line arguments.")
-
+# Toinen.
 # This is the parse_limits function for getting the temperature
 # limits from the command line parameters. Returns an array
 # that has the limits (limits[0] has min. temperature limit and
