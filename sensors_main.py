@@ -1,3 +1,5 @@
+# Tämä on Ohjelmistotuotannon perusteissa käytetty koodi ja tämä kommentti on myös ensimmäinen tehty muutos koodiin
+
 import sys
 
 # This is the main finction for controlling the flow of the
@@ -5,6 +7,8 @@ import sys
 def main():
     limits = parse_limits()
     sensor_data = []
+
+# Toinen tehty muutos 
 
     if len(limits) > 0 and check_limits(limits):
         sensor_data = read_sensors()
