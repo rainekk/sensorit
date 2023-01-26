@@ -2,6 +2,7 @@ import sys
 # Eka muutos.
 # This is the main finction for controlling the flow of the
 # implementation.
+# Uusi kommenti
 def main():
     limits = parse_limits()
     sensor_data = []
