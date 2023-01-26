@@ -2,11 +2,10 @@ import sys
 #Ensimmäinen muutos.
 # This is the main finction for controlling the flow of the
 # implementation.
-#Jonkun muun tekemä muutos.
 def main():
     limits = parse_limits()
     sensor_data = []
-#Toinen.   
+#Toinen
     if len(limits) > 0 and check_limits(limits):
         sensor_data = read_sensors()
         # This is a mockup code that prints the sensor readings
@@ -57,4 +56,5 @@ def read_sensors():
 # Other parts of the implementation such as printing the information
 # for the operator are also missing and to be implemented.
 
-main()
+if __name__ == "__main__":
+    main()
