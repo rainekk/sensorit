@@ -1,6 +1,6 @@
 import sensors_main
 import unittest
-
+#Tehtävä 2//pull request
 # Unit tests implemented with Python's built-in unittest
 # need to be classes, so here we use TestSensors class
 # for the tests.
