@@ -1,6 +1,8 @@
 import sensors_main
 import unittest
 
+#TÄSSÄ UUSI KOMMENTTI
+
 # Unit tests implemented with Python's built-in unittest
 # need to be classes, so here we use TestSensors class
 # for the tests.
