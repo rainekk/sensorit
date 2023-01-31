@@ -2,7 +2,9 @@ import sys
 # Ensimmäinen muutos.
 # This is the main finction for controlling the flow of the
 # implementation.
-# testitestisdadasdasdasddasa
+# testitesti
+# Testi
+
 def main():
     limits = parse_limits()
     sensor_data = []
