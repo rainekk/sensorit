@@ -14,6 +14,7 @@ def main():
         # for example).
         for row in sensor_data:
             print (row)
+            print('test3')
     else:
         print("Error: Incorrect command line arguments.")
 
