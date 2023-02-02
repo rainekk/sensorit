@@ -56,4 +56,5 @@ def read_sensors():
 # Other parts of the implementation such as printing the information
 # for the operator are also missing and to be implemented.
 
+# Calling main function
 main()
